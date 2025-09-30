@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Kunal Soni
+# Hi there I'm Kunal Soni
 
-🎯 **Business Analyst Aspirant** | Currently a **Content Designer** exploring data-driven decision making.  
+**Business Analyst Aspirant** | Currently a **Content Designer** exploring data-driven decision making.  
 Passionate about turning data into insights through **Excel, Power BI, and Tableau**.  
 
 ---
@@ -12,12 +12,12 @@ Passionate about turning data into insights through **Excel, Power BI, and Table
 
 ---
 
-## 📊 Featured Projects  
+## Featured Projects  
 - **Excel Dashboards** – Sales & Financial Analysis  
 - **Power BI Reports** – Business Performance Insights  
 - **Tableau Visualizations** – Interactive Storytelling  
 
-👉 *Check my repositories for dashboards and reports.*  
+*Check my repositories for dashboards and reports.*  
 
 ---
 
