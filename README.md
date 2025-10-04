@@ -20,7 +20,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/kunalsoniii/ 
 - Email: kunalsonicareer@gmail.com 
 
