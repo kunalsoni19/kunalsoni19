@@ -1,7 +1,6 @@
 # Hi there I'm Kunal Soni
 
-**Business Analyst Aspirant** | Currently a **Content Designer** exploring data-driven decision making.  
-Passionate about turning data into insights through **Excel, Power BI, and Tableau**.  
+**Business Analyst Aspirant** | Currently a **Content Designer** exploring data-driven decision making. Passionate about turning data into insights through **Excel, Power BI, and Tableau**.  
 
 ---
 
