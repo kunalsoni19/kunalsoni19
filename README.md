@@ -12,9 +12,9 @@
 ---
 
 ## Featured Projects  
-- **Excel Dashboards** – Sales & Financial Analysis  
-- **Power BI Reports** – Business Performance Insights  
-- **Tableau Visualizations** – Interactive Storytelling  
+- **Tableau Visualizations** – Customer Churn Analysis Dashboard
+- **Power BI Reports** – Credit Risk & Loan Performance Dashboard
+- **Excel Dashboards** – Retail Profitability & Performance Dashboard
 
 *Check my repositories for dashboards and reports.*  
 
