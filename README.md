@@ -16,7 +16,7 @@
 - **Power BI Reports** – Credit Risk & Loan Performance Dashboard
 - **Excel Dashboards** – Retail Profitability & Performance Dashboard
 
-*Check my repositories for dashboards and reports.*  
+*Please check my repositories for dashboards and reports.*  
 
 ---
 
