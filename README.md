@@ -5,7 +5,7 @@ Passionate about turning data into insights through **Excel, Power BI, and Table
 
 ---
 
-## 🔧 Skills & Tools  
+## Skills & Tools  
 - Excel (Data Cleaning, Analysis, Dashboards)  
 - Power BI (Interactive Dashboards, DAX, Data Modeling)  
 - Tableau (Storytelling with Data, Visual Analytics)  
