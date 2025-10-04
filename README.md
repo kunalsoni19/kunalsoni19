@@ -12,9 +12,9 @@
 ---
 
 ## Featured Projects  
-- **Tableau Visualizations** – Customer Churn Analysis Dashboard
-- **Power BI Reports** – Credit Risk & Loan Performance Dashboard
-- **Excel Dashboards** – Retail Profitability & Performance Dashboard
+- **Tableau Dashboard** – Customer Churn Analysis Dashboard
+- **Power BI Dashboard** – Credit Risk & Loan Performance Dashboard
+- **Excel Dashboard** – Retail Profitability & Performance Dashboard
 
 *Please check my repositories for dashboards and reports.*  
 
